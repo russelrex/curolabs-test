@@ -1,5 +1,4 @@
 {
-  "homepage": "https://russelrex_23@yahoo.com.github.io/curolabs-test",
   "name": "curolabs-test",
   "version": "0.1.0",
   "private": true,
@@ -7,9 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "lint": "next lint"
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",
