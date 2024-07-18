@@ -391,13 +391,15 @@ const Account: React.FC<DataProps> = ({ account }) => {
                     <Box display="flex" justifyContent="space-between" mb={1}>
                         <Typography sx={{color: '#898587'}}>One Click Trade</Typography>
                         <FormControlLabel
-                            control={<IOSSwitch  defaultChecked />} />
+                            label=""
+                            control={<IOSSwitch />} />
                     </Box>
                     <Box display="flex" justifyContent="space-between">
                         <Typography sx={{color: '#898587'}}>Show Account on  Leaderboard:</Typography>
                         
                         <FormControlLabel
-                            control={<IOSSwitch  defaultChecked />} />
+                            label=""
+                            control={<IOSSwitch />} />
                     </Box>
 
                     <Divider sx={{ backgroundColor: 'grey.700', marginY: 2 }} />
