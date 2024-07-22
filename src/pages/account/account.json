@@ -1,0 +1,33 @@
+{
+    "account_id": 123456789,
+    "account_name": "My Trading Account",
+    "auto_be_level": 3,
+    "balance": 9734.64,
+    "commissions": [
+        {
+            "asset_class": "Crypto",
+            "price_per_lot": 1
+        },
+        {
+            "asset_class": "Forex",
+            "price_per_lot": 5
+        }
+    ],
+    "daily_loss_limit": 100,
+    "equity": 9655.32,
+    "exchange": "Binance",
+    "leverage": 100,
+    "max_lot_sizes": [],
+    "one_click": true,
+    "risk": 1,
+    "show_leaderboard": false,
+    "starting_balance": 10000.0,
+    "status": "success",
+    "symbol_mappings": [
+        {
+            "mapping": "EURUSD.pro",
+            "symbol": "EURUSD"
+        }
+    ],
+    "take_profit_level": 3
+}

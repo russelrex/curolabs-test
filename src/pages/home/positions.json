@@ -1,0 +1,62 @@
+{
+    "open_trades": [
+        {
+            "account_id": 123456789,
+            "balance": 9734.64,
+            "entry": 1.09077,
+            "equity": 9734.64,
+            "exit": 1.09056,
+            "exit_time": "2024-07-14 15:24:58",
+            "fees": -3.0,
+            "open_time": "2024-07-14 15:24:52",
+            "order_id": "9043",
+            "pl": -21.0,
+            "position_type": "long",
+            "quantity": 1,
+            "roi": -0.22,
+            "sl": 0,
+            "status": "loss",
+            "symbol": "EURUSD",
+            "tp": 0
+        },
+        {
+            "account_id": 123456789,
+            "balance": 9758.64,
+            "entry": 1.08664,
+            "equity": 9758.64,
+            "exit": 1.08664,
+            "exit_time": "2024-07-11 18:41:39",
+            "fees": -0.03,
+            "open_time": "2024-07-11 18:41:17",
+            "order_id": "9023",
+            "pl": 0.0,
+            "position_type": "long",
+            "quantity": 0.01,
+            "roi": 0.0,
+            "sl": -38.91336,
+            "status": "loss",
+            "symbol": "EURUSD",
+            "tp": 121.08664
+        },
+        {
+            "account_id": 123456789,
+            "balance": 9758.67,
+            "entry": 1.08879,
+            "equity": 9758.67,
+            "exit": 1.08727,
+            "exit_time": "2024-07-11 14:20:06",
+            "fees": -1.98,
+            "open_time": "2024-07-11 14:02:04",
+            "order_id": "9022",
+            "pl": -100.32,
+            "position_type": "long",
+            "quantity": 0.66,
+            "roi": -1.02,
+            "sl": 1.08733,
+            "status": "loss",
+            "symbol": "EURUSD",
+            "tp": 1.09317
+        }
+    ],
+    "status": "success"
+}
